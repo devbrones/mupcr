@@ -26,8 +26,8 @@ Fixed temperature programs can also be set for uses such as the heat shock metho
 
 ## Technical Details
 
-Dimensions: 160mm x 120mm x 100mm (width, height, depth)
-Operating Voltage(s): 5v, 12-24v
-Temperature Range: 10-245 celsius
-Switching Time: TBD
+Dimensions: 160mm x 120mm x 100mm (width, height, depth)\
+Operating Voltage(s): 5v, 12-24v\
+Temperature Range: 10-245 celsius\
+Switching Time: TBD\
 Heating Time (0-100 celsius): TBD
