@@ -17,7 +17,7 @@ The design is based around easily accesible parts such as:
 
 The µPCR1 development prototype supports one pcr tube at a time but can easily be modified to add more due to its modular design.
 
-µPCR1 features an intuitive user interface presented on the 2.8″ touch screen where thermocycling programs can easily be edited and runned.
+µPCR1 features an intuitive user interface presented on the 2.8″ touch screen where thermocycling programs can easily be edited and run.
 
 Fixed temperature programs can also be set for uses such as the heat shock method of transforming plasmid dna into E. coli.
 
