@@ -1,6 +1,6 @@
 # mupcr
 ## µPCR is a project aiming to bring biohacking to the masses through affordable open source hardware kits and software.
-<hr>
+
 
 The µPCR1 (myu-PCR-one) is an affordable, easy to manufacture and use thermocycler that fits PCR tube sizes up to 11mm in outer diameter, such as Eppendorf 2ml Tubes.
 
